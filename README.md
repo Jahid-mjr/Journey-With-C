@@ -1,8 +1,8 @@
 # 💻 Journey With C
 
-![GitHub repo size](https://img.shields.io/github/repo-size/Jahid-mjr/learn-c-by-jahid?color=blue)
-![GitHub last commit](https://img.shields.io/github/last-commit/Jahid-mjr/learn-c-by-jahid?color=green)
-![GitHub license](https://img.shields.io/github/license/Jahid-mjr/learn-c-by-jahid?color=yellow)
+![GitHub repo size](https://img.shields.io/github/repo-size/Jahid-mjr/Journey-With-C?color=blue)
+![GitHub last commit](https://img.shields.io/github/last-commit/Jahid-mjr/Journey-With-C?color=green)
+![GitHub license](https://img.shields.io/github/license/Jahid-mjr/Journey-With-C?color=yellow)
 
 ---
 
